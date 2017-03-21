@@ -17,12 +17,13 @@ header {
 	background-attachment: fixed;
 	background-size:  cover;
 	background-color: #999;
-  padding: 100px;
+  padding: 200px;
 }
 
 div {
    font-family: 'Lucida Console', serif;
    background: #dcdcd6;
+   
 }
 
 h3 {
