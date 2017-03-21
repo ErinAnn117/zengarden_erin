@@ -10,12 +10,36 @@
 
 header {
    font-family: 'Diplomata SC', cursive;
+  text-align: center;  
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.0-9/17425926_175632932945718_2491918202908443341_n.jpg?oh=bb97a0de31ac487485019457c222ae7f&oe=5957D62B");
+  background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	background-color: #999;
+  padding: 100px;
 }
 
-p {
-   font-family: 'Cuprum', sans-serif;
+div {
+   font-family: 'Lucida Console', serif;
+   background: #dcdcd6;
 }
 
 h3 {
-  font-family: 'Cuprum', sans-serif;
+  font-family: 'Diplomata SC', cursive;
+  text-align: center;
+  background: #0d4e4e;
+  color: white;
+  padding: 50px;
 }
+
+a {
+  color: #5f0412;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+
